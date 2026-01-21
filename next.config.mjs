@@ -16,7 +16,6 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
-  output: 'export',
   basePath: '/ForesTracker-2',
   experimental: {
     webpackBuildWorker: true,
